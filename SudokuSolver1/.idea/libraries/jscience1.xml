@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jscience1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/handWritingRecognization/jscience/jscience.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
